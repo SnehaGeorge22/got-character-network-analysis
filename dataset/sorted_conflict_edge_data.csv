@@ -1,0 +1,26 @@
+,Source,Target,Weight
+0,Cersei Lannister,Eddard Stark,30
+1,Joffrey Lannister,Sansa Stark,21
+2,Jaime Lannister,Tywin Lannister,19
+3,Catelyn Stark,Jaime Lannister,18
+4,Cersei Lannister,Robert Baratheon,16
+5,Daenerys Targaryen,Viserys Targaryen,15
+6,Catelyn Stark,Tyrion Lannister,13
+7,Cersei Lannister,Sansa Stark,11
+8,Eddard Stark,Robert Baratheon,8
+9,Eddard Stark,Petyr Baelish,7
+10,Eddard Stark,Jaime Lannister,6
+11,Joffrey Lannister,Tyrion Lannister,4
+12,Cersei Lannister,Joffrey Lannister,3
+13,Jaime Lannister,Petyr Baelish,3
+14,Petyr Baelish,Sansa Stark,2
+15,Robb Stark,Tyrion Lannister,2
+16,Jaime Lannister,Robb Stark,2
+17,Catelyn Stark,Eddard Stark,2
+18,Joffrey Lannister,Robert Baratheon,1
+19,Eddard Stark,Joffrey Lannister,1
+20,Eddard Stark,Jon Snow,1
+21,Cersei Lannister,Varys,1
+22,Cersei Lannister,Petyr Baelish,1
+23,Catelyn Stark,Robb Stark,1
+24,Sansa Stark,Varys,1
